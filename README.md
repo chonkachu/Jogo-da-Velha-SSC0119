@@ -7,4 +7,4 @@ O jogo implementado foi o clássico jogo da velha. Os jogadores alternam as joga
 ## Membros: 
 CHRISTIAN SIMAS GIOIA - 11795572<br>
 BRENO GONCALVES RODRIGUES - <br>
-HENRIQUE SOUZA MARQUES - <br>
+HENRIQUE SOUZA MARQUES - 11815722<br> 
