@@ -4,6 +4,10 @@
 O jogo implementado foi o clássico jogo da velha. Os jogadores alternam as jogadas colocando
 "X" ou "O" nos quadrados até o jogo velhar ou ser vencido por um deles.
 
+![Inicio](print0.png)
+![Jogada](print1.png)
+![Fim](print2.png)
+
 ## Membros: 
 CHRISTIAN SIMAS GIOIA - 11795572<br>
 BRENO GONCALVES RODRIGUES - <br>
