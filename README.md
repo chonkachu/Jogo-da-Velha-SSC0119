@@ -5,8 +5,14 @@ O jogo implementado foi o clássico jogo da velha. Os jogadores alternam as joga
 "X" ou "O" nos quadrados até o jogo velhar ou ser vencido por um deles.
 
 ## Telas do jogo
+
+Tela Inicial<br>
 ![Inicio](print0.png)
+
+Tela de jogo<br>
 ![Jogada](print1.png)
+
+Tela de fim de jogo<br>
 ![Fim](print2.png)
 
 ## Membros: 
